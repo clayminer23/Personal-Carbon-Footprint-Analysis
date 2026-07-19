@@ -17,9 +17,9 @@ Key Findings:
 
 ![Feature Importance](visuals/feature_importance.png)
 
-![Carbon Heatmap](carbon_heatmap.png)
+![Carbon Heatmap](visuals/carbon_heatmap.png)
 
-![Efficiency Scatter](efficiency_ratio_scatter.png)
+![Efficiency Scatter](visuals/efficiency_ratio_scatter.png)
 
 ## Repository Structure
 
