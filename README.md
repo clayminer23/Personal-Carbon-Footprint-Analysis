@@ -1,6 +1,6 @@
 Personal Carbon Footprint Analysis and Recommendation System
 
-This proeject combines data cleaning, exploratory data analysis, visualations, machine learning, clustering, and a recommendation system to discover behaviors that contribute heavily to personal carbon footprints.
+This project combines data cleaning, exploratory data analysis, visualizations, machine learning, clustering, and a recommendation system to discover behaviors that contribute heavily to personal carbon footprints.
 
 Using over 1,000 instances of user data, this project discovers the strongest factors of carbon footprint, predicts future footprints using machine learning and clustering to group similar users, and generates ways to reduce carbon output. This model also predicts what a reduction in carbon output may look like based on those recommendations.
 
@@ -8,7 +8,7 @@ Developed using ideas learned over the last three years studying Data Science an
 
 Key Findings:
 
-- Energy usage was was on the strongest predictors of carbon footprint followed by waste and distance traveled.
+- Energy usage was one on the strongest predictors of carbon footprint followed by waste and distance traveled.
 - Renewable energy usage was associated with a significant decrease in carbon emission.
 - Clustering users within this dataset revelated different footprint behaviors.
 - With slight alterations to lifestyle changes, carbon reduction was often possible and significant.
